@@ -12,7 +12,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary text-white font-bold">
                 C
               </div>
-              <span className="font-bold text-lg uppercase">Coursiers à vélo</span>
+              <span className="font-bold text-lg uppercase">CYCLO COURSIER</span>
             </div>
             <p className="text-sm text-white/70 max-w-xs">
               Coursiers à vélo sur Le Havre et son agglomération.
@@ -63,7 +63,7 @@ export function Footer() {
         <Separator className="my-8 bg-white/10" />
 
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-white/50">
-          <p>© 2026 Coursiers à vélo. Tous droits réservés.</p>
+          <p>© 2026 CYCLO COURSIER. Tous droits réservés.</p>
           <div className="flex gap-6">
             <Link href="/mentions-legales" className="hover:text-white transition-colors">
               Mentions légales

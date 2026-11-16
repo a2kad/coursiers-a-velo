@@ -27,7 +27,7 @@ export function Header() {
           </div>
           <div className="flex flex-col leading-none">
             <span className="font-bold text-lg tracking-tight text-black uppercase">
-              Coursiers à vélo
+              CYCLO COURSIER
             </span>
             <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
               Coursiers à vélo
